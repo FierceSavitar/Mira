@@ -1,7 +1,7 @@
 {
   "name": "mira",
   "version": "1.0.0",
-  "description": "A simple chat bot for Skype",
+  "description": "A simple chat bot for Skype and or Discord",
   "main": "index.js",
   "scripts": {
     "test": "init"
