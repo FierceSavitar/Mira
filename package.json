@@ -9,7 +9,7 @@
   "keywords": [
     "Mira"
   ],
-  "author": "Austin Amakye Ansah",
+  "author": "DevSynth",
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^3.8.4",
